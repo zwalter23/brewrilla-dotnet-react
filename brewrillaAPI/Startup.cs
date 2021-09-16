@@ -24,6 +24,7 @@ namespace brewrillaAPI
             services.AddControllers();
             services.AddDbContext<BeerContext>(opt =>
                                                opt.UseInMemoryDatabase("BeerList"));
+            services.AddDbContext<IngredientContext>(opt => opt.UseInMemoryDatabase("IngredientList"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
