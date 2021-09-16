@@ -7362,11 +7362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\School\\Projects\\C#\\dotnet-module\\brewrilla-dotnet-react\\brewrillaAPI\\brewrillaAPI.csproj",
+      "projectUniqueName": "W:\\School\\Projects\\C#\\dotnet-module\\brewrilla\\brewrillaAPI\\brewrillaAPI.csproj",
       "projectName": "brewrillaAPI",
-      "projectPath": "W:\\School\\Projects\\C#\\dotnet-module\\brewrilla-dotnet-react\\brewrillaAPI\\brewrillaAPI.csproj",
+      "projectPath": "W:\\School\\Projects\\C#\\dotnet-module\\brewrilla\\brewrillaAPI\\brewrillaAPI.csproj",
       "packagesPath": "C:\\Users\\zimme\\.nuget\\packages\\",
-      "outputPath": "W:\\School\\Projects\\C#\\dotnet-module\\brewrilla-dotnet-react\\brewrillaAPI\\obj\\",
+      "outputPath": "W:\\School\\Projects\\C#\\dotnet-module\\brewrilla\\brewrillaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zimme\\AppData\\Roaming\\NuGet\\NuGet.Config",
